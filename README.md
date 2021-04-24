@@ -4,6 +4,8 @@
 
 This module was adapted from an assignment from the MOOC MITx 6.419x, which involved graphing adjacency matrices from the [CAVIAR wiretapping data set](https://sites.google.com/site/ucinetsoftware/datasets/covert-networks/caviar). All traces of the original assignment has been removed to observe the Honor Code and avoid giving away answers to future students. This is a thin layer on top of Networkx's draw functions to add some styling. Documentation and usage can be found in ``usage.py``.
 
+![A graph produced by the library.](sample_graph.png)
+
 ## Dependencies
 
 * [Numpy](https://numpy.org/doc/1.20/)
